@@ -1,0 +1,28 @@
+.container {
+    padding: '0 5%';
+     width: '100%';
+      margin: 0;
+      color: gray;
+  }
+
+  card {
+    display: 'flex';
+    flex-direction: 'column';
+    justifyContent: 'space-between';
+    alignItems: 'center';
+    width: '100%';
+    height: '55vh';
+    padding: '10%';
+    borderRadius: 10;
+    color: 'white'
+  }
+  .Cards {
+      margin-left: 10%;
+  }
+  
+  
+  .app_body {
+    color:gray;
+  }
+
+ 
