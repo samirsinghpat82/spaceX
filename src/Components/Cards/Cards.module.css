@@ -1,0 +1,10 @@
+.images{
+  height: 200px;
+}
+.main{
+display: 'flex';
+flex-direction: 'column';
+justify-content: 'space-between';
+border-bottom: '10px solid black';
+align-items: center;
+}

@@ -1,0 +1,11 @@
+.body{
+  margin: 5px 0 0 20px;
+  display: flex;
+}
+
+.side{
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
